@@ -4,6 +4,9 @@ body{
     font-family: monospace;
     font-style: italic;
 }
+nav {
+    text-align: end;
+}
 form {
     background-color: blue;
 }
