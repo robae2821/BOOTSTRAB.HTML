@@ -1,0 +1,41 @@
+body{
+    background-color:gray;
+    font-size: 23px;
+    font-family: monospace;
+    font-style: italic;
+}
+form {
+    background-color: blue;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+h2 {
+    font-size: 28px;
+}
+h3 {
+    font-size: 28px;
+}
+h4 {
+    font-size: 28px;
+}
+h5 {
+    font-size: 28px;
+}
+h6 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 28px;
+}
+
+img{
+    border:black solid 10px;
+    
+}
+iframe{
+    border: black solid 10px;
+}
